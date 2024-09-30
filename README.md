@@ -3,7 +3,7 @@
 #### Marco Túlio Quintino and Jessica Bavaresco
 
 
-This is a repository for the article [Can the quantum switch be deterministically simulated?](https://arxiv.org/abs/xxxx.xxxx), from Jessica Bavaresco, Satoshi Yoshida, Tatsuki Odake, Hlér Kristjánsson, Philip Taranto, Mio Murao, and Marco Túlio Quintino.
+This is a repository for the article "*Can the quantum switch be deterministically simulated?*, Jessica Bavaresco, Satoshi Yoshida, Tatsuki Odake, Hlér Kristjánsson, Philip Taranto, Mio Murao, and Marco Túlio Quintino, [arXiv:2409.18202 [quant-ph]](https://arxiv.org/abs/2409.18202)".
 
  The MATLAB code from this repository requires:
 - [YALMIP](https://github.com/yalmip/yalmip/) - MATLAB toolbox for optimization modeling
