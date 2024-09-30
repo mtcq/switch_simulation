@@ -1,4 +1,4 @@
-## Code to accompany: [Can the quantum switch be deterministically simulated?](https://arxiv.org/abs/xxxx.xxxx)
+## Code to accompany: [Can the quantum switch be deterministically simulated?](https://arxiv.org/abs/2409.18202)
 
 #### Marco Túlio Quintino and Jessica Bavaresco
 
