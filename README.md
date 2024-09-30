@@ -8,7 +8,7 @@ This is a repository for the article "*Can the quantum switch be deterministical
  The MATLAB code from this repository requires:
 - [YALMIP](https://github.com/yalmip/yalmip/) - MATLAB toolbox for optimization modeling
 - [QETLAB](http://www.qetlab.com/) - a free MATLAB toolbox for quantum entanglement theory
-- [HigherOrderProjectors](https://github.com/mtcq/HigherOrderProjectors) - repository from the article [https://arxiv.org/abs/2305.01247](https://arxiv.org/abs/2305.01247) which includdes projectors on the linear space spanned by various classes higher-order transformations.
+- [HigherOrderProjectors](https://github.com/mtcq/HigherOrderProjectors) - repository from the article  [arXiv:2305.01247 [quant-ph]](https://arxiv.org/abs/2305.01247) which includes projectors on the linear space spanned by various classes higher-order transformations.
 
 This repository consists of:
 
