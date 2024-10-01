@@ -25,7 +25,7 @@ This repository consists of:
 
 #### - SDP
 
-- [linkFAST.m](https://github.com/mtcq/switch_simulation/blob/main/SDP/linkFAST.m): Function that computes the link product of two matrices, $A \in I$ and $B \in I\otimes O$, returning $C = A*B \in O$.
+- [linkFAST.m](https://github.com/mtcq/switch_simulation/blob/main/SDP/linkFAST.m): Function that computes the link product of two matrices, $A \in L(\mathbb{C}^{d_{in}})$ and $B \in L(\mathbb{C}^{d_{in}}\otimes\mathbb{C}^{d_{out}})$, returning $C = A*B = tr_{in}((A^T \otimes I) B) \in \mathbb{C}^{d_{out}}$.
 
 - [probabilistic_approximate/](https://github.com/mtcq/switch_simulation/tree/main/SDP/probabilistic_approximate): Folder containing SDP functions for computing the maximum probability of success of an approximate (bounded-error) simulation of the quantum switch in a partly restricted scenario (fixed input systems). Contains functions for the primal problem with simulations using quantum combs and QC-CCs that have 2 and 3 slots. Used to create Fig. 4 of [the paper](https://arxiv.org/abs/2409.18202).
 
