@@ -4,7 +4,7 @@
 %Requires: Nothing
 %Input:	A, square matrix din by din
 %	B, square matrix din*dout by din*dout
-%	d=[din dout]
+%	d=[din dout], the dimensions of input and output space
 %Output: C = A*B = \tr_in( (A^T \otimes Id) B) , 
 
 %Author: Marco Túlio Quintino, https://github.com/mtcq, mtcq.mm@gmail.com
