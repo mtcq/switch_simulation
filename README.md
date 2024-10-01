@@ -33,7 +33,7 @@ This repository consists of:
 
 #### - data
 
-- [basis/](https://github.com/mtcq/switch_simulation/tree/main/data/basis): Folder containing data files corresponding to bases for the subspace of k identical copies of qubit channels, for $k\in\{1,2,3,4\}.$
+- [basis/](https://github.com/mtcq/switch_simulation/tree/main/data/basis): Folder containing data files corresponding to bases for the subspace of k identical copies of qubit channels, for $k\in${1,2,3,4}.
 
 - [p=1/](https://github.com/mtcq/switch_simulation/tree/main/data/p%3D1): Folder containing data files corresponding to quantum combs that simulate the action of the quantum switch, in a restricted scenario (fixed input systems, discarded output target system), for identical qubit channels in the order AAAA, and for qubit unitary channels in the order AABB and BAAA.
 
