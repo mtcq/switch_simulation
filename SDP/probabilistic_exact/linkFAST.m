@@ -1,4 +1,4 @@
-%Author: Marco T??lio Quintino, https://github.com/mtcq, mtcq.mm@gmail.com
+%Author: Marco Túlio Quintino, https://github.com/mtcq, mtcq.mm@gmail.com
 %Requires: nothing
 %Last update: 03/03/2024
 
