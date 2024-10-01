@@ -31,7 +31,7 @@ This repository consists of:
 
 - [probabilistic_exact/](https://github.com/mtcq/switch_simulation/tree/main/SDP/probabilistic_exact): Folder containing SDP functions for computing the maximum probability of success of an exact simulation of the quantum switch in a restricted scenario (fixed input systems, discarded output target system). Contains functions for the primal and dual problems with simulations using quantum combs that have 2, 3 and 4 slots.
 
-### - data
+#### - data
 
 - [basis/](https://github.com/mtcq/switch_simulation/tree/main/data/basis): Folder containing data files corresponding to bases for the subspace of k identical copies of qubit channels, for $k\in\{1,2,3,4\}.$
 
