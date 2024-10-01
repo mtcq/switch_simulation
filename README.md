@@ -18,5 +18,5 @@ This repository consists of:
 
 -  [inputdata_compassist](https://github.com/mtcq/switch_simulation/tree/main/inputdata_compassist): Folder which contains input data required for the computer assisted proof and high-precision code.
 
-- [outputdata_compassist.m](https://github.com/mtcq/switch_simulation/tree/main/outputdata_compassist): Folder which contains output data obtained with the computer the computer-assisted proof code. That is, these files form a proof certificate for Theorem 2 of the article [Can the quantum switch be deterministically simulated?](https://arxiv.org/abs/xxxx.xxxx).
+- [outputdata_compassist.m](https://github.com/mtcq/switch_simulation/tree/main/outputdata_compassist): Folder which contains output data obtained with the computer the computer-assisted proof code. That is, these files form a proof certificate for Theorem 2 of the article [Can the quantum switch be deterministically simulated?](https://arxiv.org/abs/2409.18202).
 
