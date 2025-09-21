@@ -2,6 +2,8 @@
 
 #### Marco Túlio Quintino and Jessica Bavaresco
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17170679.svg)](https://doi.org/10.5281/zenodo.17170679)
+
 This is a repository for the article "*Can the quantum switch be deterministically simulated?*, Jessica Bavaresco, Satoshi Yoshida, Tatsuki Odake, Hlér Kristjánsson, Philip Taranto, Mio Murao, and Marco Túlio Quintino, [arXiv:2409.18202 [quant-ph]](https://arxiv.org/abs/2409.18202)".
 
  The MATLAB code from this repository requires:
